@@ -1,7 +1,7 @@
 # 🌅 AstroTucks
 
 AstroTucks is a Telegram bot that provides **precise sunrise and sunset times (down to the second)** based on a user’s **live location**, built using **Telegram Bot API**
----
+
 
 ## 📜 Background
 
@@ -47,9 +47,14 @@ Sunset Time Today is: XX:XX:XX AM/PM
 (All times in local timezone)
 ```
 
-Find some images ![Here]()
+### Find some images 
 
-Try it out: ![🌅 AstroTucks](https://t.me/astucks_bot) (Vastly up during Ramadan and other moon based events.)
+<div style="display: flex; gap: 20px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/ahmfuad/AstroTucks/refs/heads/main/images/bot_intro.png" width="45%">
+  <img src="https://raw.githubusercontent.com/ahmfuad/AstroTucks/refs/heads/main/images/bot_usage.png" width="45%">
+</div>
+
+Try it out: [🌅 AstroTucks](https://t.me/astucks_bot) (Vastly running during Ramadan and other moon-based events.)
 
 ---
 
